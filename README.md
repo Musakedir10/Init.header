@@ -5,8 +5,8 @@ My name is Musa-Kedir and I mainly work on Aerospcae Enginering but in my free t
 **CLASS SUMMARY**
 
 The Topic of the class was about the 3 basics of a computer, which are mainly stated as the 
-- Control
-- Arthimetic 
-- Memory unit 
+- 'Control'
+- 'Arthimetic' 
+- 'Memory unit' 
  
  which was expressed symbololically by the title of the class named as Text,Calculator,
