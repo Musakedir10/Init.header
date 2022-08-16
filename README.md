@@ -33,4 +33,4 @@ The Topic of the class was about the 3 basics of a computer, which are mainly st
 > In the above the above code we can see that the there is a format written before the opening and closing body,the body part is known to be the main part or the CSS part as discussed in the last class
 
 2)Calculator is the part of the computer that process the data inserted to the computer, in the manhathen project American physicist was given a group of data to work on for the atomic experiment and due to the large amount of data given to him he was helped by a group of Brilliant Female Math expert`s which were given a bunch of equation broken up into their simplest terms which inturn creates a high amount of numbers that can be calculated easliy 
-	![alt text]()
+	![GroupCM-1 outside D Building, TA-1](https://user-images.githubusercontent.com/111343123/184945822-482361b8-f4be-4555-a8bd-d2d225b1bee6.jpg)
