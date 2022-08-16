@@ -9,4 +9,4 @@ The Topic of the class was about the 3 basics of a computer, which are mainly st
 - `Arthimetic` 
 - `Memory unit` 
  
- which was expressed symbololically by the title of the class named as Text,Calculator,
+ which was expressed symbololically by the title of the class named as `Text` ,`Calculator` and `Storage` repectively 
