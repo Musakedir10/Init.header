@@ -11,6 +11,4 @@ The Topic of the class was about the 3 basics of a computer, which are mainly st
  
  which was expressed symbololically by the title of the class named as `Text` ,`Calculator` and `Storage` repectively. 
  
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+ 	~~The world is flat.~~
